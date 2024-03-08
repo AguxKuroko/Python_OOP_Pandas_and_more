@@ -82,4 +82,3 @@ def export_data_to_excel(data: pd.DataFrame):
             print(f"Data has been exported to '{file_name}' successfully.")
             break
 
-# xlsx
