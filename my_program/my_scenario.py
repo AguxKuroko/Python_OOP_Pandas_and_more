@@ -20,6 +20,7 @@ def main_1():
             print(count_results)
             plot_subscription_counts(count_results)
             export_data_to_excel(count_results)
+            break
 
 
 def main_2():
